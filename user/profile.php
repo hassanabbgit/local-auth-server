@@ -90,7 +90,7 @@ unset($_SESSION['flash_success']);
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Profile | Local Auth Server</title>
+  <title>My Profile | Local Network Auth Server</title>
   <link rel="stylesheet" href="../assets/vendor/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="../assets/css/style.css">
 </head>
@@ -99,8 +99,8 @@ unset($_SESSION['flash_success']);
     <aside class="app-sidebar">
       <div class="sidebar-header d-flex align-items-center justify-content-between">
         <a class="sidebar-brand" href="index.php">
-          <span class="brand-dot">LA</span>
-          <span>Local Auth Server</span>
+          
+          <span>Local Network Auth Server</span>
         </a>
         <button type="button" class="sidebar-close d-lg-none" aria-label="Close menu">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
